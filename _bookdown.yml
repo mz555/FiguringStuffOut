@@ -5,4 +5,4 @@ edit: https://github.com/mz555/FiguringStuffOut/edit/master/%s
 view: https://github.com/mz555/FiguringStuffOut/blob/master/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Section "
